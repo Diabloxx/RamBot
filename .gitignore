@@ -1,0 +1,4 @@
+configs/config.json
+configs/mysql.json
+/statistics/searches.txt
+irc_ripple/config.json
