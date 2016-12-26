@@ -1,0 +1,26 @@
+{
+    "db_host": "localhost",
+    "db_user": "root",
+    "db_pass": "",
+    "db_table": "ripple",
+    "osu_api": "osu_api_key",
+    "tillerino_api": "good_luck",
+    "ripple_server": "irc.blosu.net",
+    "ripple_username": "bot_username",
+    "ripple_password": "bot_password",
+    "ripple_token": "irc_token",
+    "ripple_owner": [
+        "adminname1",
+        "adminname2",
+        "adminname3"
+    ],
+    "twitch_server": "",
+    "twitch_username": "",
+    "twitch_password": "",
+    "twitch_token": "",
+    "twitch_owner": "",
+    "blosu_server": "you_dont_need_this",
+    "blosu_username": "",
+    "blosu_password": "",
+    "blosu_channel": "",
+}
